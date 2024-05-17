@@ -13,3 +13,5 @@ During the fight, if your fuel decreases, you'll have the option to increase it.
 At the end of the battle, the game will tell you who wins and who loses.
   
 There's also an option to "Run for Life," which ends the game and says, "You lose. Better luck next time!"
+
+I've also added some interesting colors to enhance the CMD experience. You can check out the code for these feature
